@@ -3,4 +3,4 @@ sitio web estatico de pruebas
 ---
 
 
-muestra la letra de una cancion (de manera sincrónica) mientras ésta se esta reproduciendo.
+este programa va resaltando la letra de una cancion mientras ésta se reproduce.
