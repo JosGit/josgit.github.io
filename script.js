@@ -1,5 +1,4 @@
-// abrir MAMP
-// ir a esta url:  http://localhost/letra-musica/  
+// ir a esta url:  https://josgit.github.io/
 
 document.addEventListener('DOMContentLoaded', function() {
     const letrasDiv = document.getElementById('letras');
