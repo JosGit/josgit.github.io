@@ -8,17 +8,6 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.notas {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    text-align: left;
-    background-color: #f0f0f0;
-    padding: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
 #letras {
     text-align: center;
     width: 80%;
