@@ -21,3 +21,16 @@ audio {
     bottom: 10px;
     width: 80%;
 }
+
+
+/* Media query para pantallas más pequeñas */
+@media (max-width: 600px) {
+    #letras {
+        width: 90%;
+        height: 50vh; /* Ajusta según sea necesario */
+    }
+
+    audio {
+        width: 90%;
+    }
+}
